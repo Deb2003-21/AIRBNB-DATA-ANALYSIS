@@ -2,6 +2,12 @@
 
 This project analyzes over 250,000 Airbnb listings and 5.4 million reviews from 10 major cities, spanning the years 2008 to 2021. The analysis explores pricing, host distribution, amenities, review trends, and city-level insights to uncover how location, room type, and guest preferences shape the Airbnb marketplace.
 
+## Project files link 
+https://drive.google.com/file/d/1LkPI4RWGIERJG4MyivYh4NqLslyJxvVK/view?usp=sharing
+
+## Dataset link
+ https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
 ## Dataset Features
 
 - **Listings:** 250,000+ entries with host info, pricing, location, room type, and amenities.
